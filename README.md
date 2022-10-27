@@ -1,5 +1,5 @@
 
-# Stock Price Prediction Using Stacked LSTM
+# Stock Price Prediction Using LSTM and Decision Trees
 
 
 
