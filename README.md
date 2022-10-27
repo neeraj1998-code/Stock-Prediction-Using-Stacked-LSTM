@@ -1,7 +1,7 @@
 
 # Stock Price Prediction Using Stacked LSTM
 
-![Banner Image](https://drive.google.com/uc?export=view&id=1Xcvm9JSl5dEJ2jmxEmy-TMh_ezooPWVy)
+
 
 
 # Project Title:
@@ -18,7 +18,7 @@ In the past decades, there is an increasing interest in predicting markets among
 # Technical Objective:
 The technical objectives will be implemented in Python. The system must be able to access a list of historical prices. It must calculate the estimated price of stock based on the historical data for the next 30 days. It must also provide an instantaneous visualization of the market index in a neatly formatted Python-Based Web App.
 
-# Web Application:
-![WebApp Preview](https://drive.google.com/uc?export=view&id=1kAAXAgayNwZOqzMSuHR8yq10E641JXJF)
 
-### Check Out The [Project Report](https://github.com/jackpraveenraj/Stock-Prediction-Using-Stacked-LSTM/blob/main/Stock%20Prediction%20Project%20Report%20Github.pdf) For Detailed Documentation.
+
+
+
